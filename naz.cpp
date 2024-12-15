@@ -7,5 +7,5 @@ int main(){
 
     cout<<"welcome to git world";
     cout<<"na el m4T4Tt";
-
+cout <<;
 }
