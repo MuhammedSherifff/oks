@@ -7,4 +7,4 @@ steps:
 - name: print runner os
 run: echo "runner os is ${{runner.os}}"
 - name: el event name
-run: echo "el event name ${{github.event_name}}|
+run: echo "el event name ${{github.event_name}}
